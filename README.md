@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 ˹ɴɪᴅʜɪ ✘ ᴍᴜsɪᴄ˼ 」──
+    ──「 PATAKA JAAT MUSIC 」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/56d1760224589ee370186.jpg">
+  <img src="https://telegra.ph/file/ae4bd45313bf05bb7ab02.jpg">
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/36be820a8775f0bfc773e.jpg">
+  <img src="6802282432:AAHobTIK0xOJr0jN-cDioFfUL9IZfN2BLoA">
 </p>
 
 <h3 align="center">
